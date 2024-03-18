@@ -1,4 +1,4 @@
-![image](https://github.com/kotarohit/Invoice-Management-Predictions/assets/84588865/011b203f-b2d5-406d-8310-c2eba1d7d4b5)
+# Invoice-Management-Predictions
 
 This application has been developed for businesses with a focus on improving the efficiency of their account receivable department. Specifically, it is designed to help B2B organizations keep track of their customers' account clearance dates.
 
